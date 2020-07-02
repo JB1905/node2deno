@@ -6,5 +6,6 @@ This repo will help you easily switch from Node to Deno. Here are some Deno alte
 
 ## Packages
 
-Node | Deno
------|-----
+| Node                                       | Deno                                     | Description       |
+| ------------------------------------------ | ---------------------------------------- | ----------------- |
+| [Ora](https://github.com/sindresorhus/ora) | [Kia](https://github.com/HarryPeach/kia) | Terminal spinners |
