@@ -7,7 +7,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Pull Request Process
 
-1. Ensure that an alternative to the Node library does not exist in README.md, place the library in the appropriate place on the list (alphabetical order ascending by Node.js package name).
+1. Ensure that an alternative to the Node.js library does not exist in README.md, place the library in the appropriate place on the list (alphabetical order ascending by Node.js package name).
 2. Add Node.js library (with link), alternative for Deno (with link) and short description to the README.md file.
 3. You may merge the Pull Request in once you have the sign-off of two other developers, or if you
    do not have permission to do that, you may request the second reviewer to merge it for you.
