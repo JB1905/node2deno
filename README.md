@@ -2,11 +2,11 @@
 
 ## About
 
-This repo will help you easily switch from Node to Deno. Here are some Deno alternatives to libraries and frameworks well known to Node devs.
+This repo will help you easily switch from Node.js to Deno. Here are some Deno alternatives to libraries and frameworks well known to Node.js devs.
 
 ## Packages
 
-| Node                                             | Deno                                               | Description              |
+| Node.js                                          | Deno                                               | Description              |
 | ------------------------------------------------ | -------------------------------------------------- | ------------------------ |
 | [Commander](https://github.com/tj/commander.js/) | [Denomander](https://github.com/siokas/denomander) | Command-line app library |
 | [Express](https://expressjs.com/)                | [Oak](https://github.com/oakserver/oak)            | Net server               |
