@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "JB1905",
+      "name": "Jakub Biesiada",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/28870390?v=4",
+      "profile": "https://jb1905.github.io/portfolio/",
+      "contributions": [
+        "ideas",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "node2deno",
+  "projectOwner": "docuduck",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
